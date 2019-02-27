@@ -1,8 +1,8 @@
-![](http://wes.io/dgAQ/content)
+# George's React For Beginners files
 
-# React For Beginners — George's files
+I've been doing Wes Bos's [ReactForBeginners.com](https://ReactForBeginners.com) course from different computers. I'm just uploading these files so I can pick up where I left off. :-)
 
-[ReactForBeginners.com](https://ReactForBeginners.com)
+#Original README
 
 Starter files for the React For Beginners course. Come <a href="https://ReactForBeginners.com/">Learn React</a> with me!
 
