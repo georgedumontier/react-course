@@ -1,6 +1,8 @@
 ![](http://wes.io/dgAQ/content)
 
-# React For Beginners — [ReactForBeginners.com](https://ReactForBeginners.com)
+# React For Beginners — George's files
+
+[ReactForBeginners.com](https://ReactForBeginners.com)
 
 Starter files for the React For Beginners course. Come <a href="https://ReactForBeginners.com/">Learn React</a> with me!
 
@@ -9,6 +11,7 @@ The code in this repo meant to be a reference point for anyone following along w
 ## To Start
 
 **Note** - One of the dependencies is Xcode. While installing, if you run into an error that says, `gyp: No Xcode or CLT version detected!` please do the following:
+
 1. Execute `xcode-select --install` in terminal.
 2. Delete the "node_modules" folder located within the "catch-of-the-day" folder.
 3. Execute `npm install` once more.
@@ -33,8 +36,8 @@ Restart your dev tools or your chrome browser entirely. They will only show up w
 
 There may be a few different causes for this:
 
-* Webpack currently can't handle folder/file names that contain parentheses.
-* Webpack also has problems running inside folders for Dropbox/Google Drive type services. Git is recommended for keeping your files in sync across multiple computers.
+- Webpack currently can't handle folder/file names that contain parentheses.
+- Webpack also has problems running inside folders for Dropbox/Google Drive type services. Git is recommended for keeping your files in sync across multiple computers.
 
 #### :question: I get `permission_denied` warnings in my console when setting up Firebase
 
@@ -48,16 +51,16 @@ Firebase by default only allows logins from localhost or the Firebase website. Y
 
 In March 2018 I re-recorded this course. Here are the things that I've updated.
 
-* Upgrade to React Router 4 Final API
-* Use React 16.3
-* Move to external PropTypes Package
-* Use React's new Refs API, remove function refs
-* Remove all use of constructors and super() - use class properties instead
-* Better explain binding, use of `this` and component instances
-* Moved from React-addons-css-transition-group to react-transition-group and upgraded from 1.x to 2.x
-* Use official Firebase package for Auth as re-base is now only for data binding
-* Move promise based code to async/await
-* Show how to return multiple elements with React.Fragment
+- Upgrade to React Router 4 Final API
+- Use React 16.3
+- Move to external PropTypes Package
+- Use React's new Refs API, remove function refs
+- Remove all use of constructors and super() - use class properties instead
+- Better explain binding, use of `this` and component instances
+- Moved from React-addons-css-transition-group to react-transition-group and upgraded from 1.x to 2.x
+- Use official Firebase package for Auth as re-base is now only for data binding
+- Move promise based code to async/await
+- Show how to return multiple elements with React.Fragment
 
 ## htaccess
 
